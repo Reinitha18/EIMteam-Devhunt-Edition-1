@@ -1,0 +1,245 @@
+.tete{
+    height: 100px;
+    width: 100px;
+  }
+  #AEENI{
+    height: 100px;
+    width: 100;
+  }
+  h2{
+    position: absolute;
+    left:10%;
+    top: 0;
+  }
+  
+  body {
+    padding-bottom: 20px;
+  }
+  
+  .navbar {
+    margin-bottom: 20px;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:rgb(97, 31, 31);
+  }
+  #forme-control { position:right;
+  
+  }
+  
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: rgb(37, 8, 8);
+  }
+  .dropdown {
+    float: left;
+    overflow: hidden;
+  
+  }
+  
+  .dropbtn .dropbtn {
+    cursor: pointer;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: rgb(97, 31, 31);
+    font-family: inherit;
+    margin: 0;
+  
+  }
+  .dropbtn, .dropbtn:focus{
+    background-color:  rgb(97, 31, 31);
+  }
+  
+  
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color:  white;
+    min-width: 160px;
+    
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown-content a:hover {
+    background-color: rgb(37, 8, 8);
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .show{
+    display: block;
+  }
+  
+  .dropdown:hover .dropbtn {
+    background-color: rgb(37, 8, 8);
+  }
+  
+   
+  .social-menu{
+    display:flex ;
+    list-style-type: none;
+    justify-content: space-between;
+    height: 56px;
+    width: 2000px;
+    background-color: rgb(97, 31, 31);
+    position: absolute;
+  }
+  
+  .evnmt{
+    position:absolute;
+    left:80%;
+    top:70%;
+    z-index: 9;
+  
+  }
+  
+  button:hover {
+    background-color: rgb(37, 8, 8);
+  }
+  button{
+    height: 50px;
+    background-color:rgb(97, 31, 31);
+    box-shadow: rgba(0, 0, 0, 0.274);
+  }
+      
+
+.img{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    opacity: 0.5;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.473);
+}
+
+
+.contenue{
+    background-color:rgba(221, 232, 233, 0.452);
+
+}
+
+.boite1{
+    position: absolute;
+    left: 520px;
+    top: 240px;
+    z-index: 1;
+    
+
+}
+.boite2{
+    position: absolute;
+    left: 720px;
+    top: 180px;
+    z-index: 2;
+    
+
+}
+.boite3{
+    position: absolute;
+    left: 920px;
+    top: 115px;
+    z-index: 3;
+    
+
+}
+.boite4{
+    position: absolute;
+    left: 580px;
+    top: 380px;
+    z-index: 4;
+}
+.boite5{
+    position: absolute;
+    left: 780px;
+    top: 340px;    
+    z-index: 5;
+
+}
+.boite6{
+    position: absolute;
+    left: 980px;
+    top: 300px;
+    z-index: 6;
+
+}
+
+.slogan{
+    position: absolute;
+    left: 620px;
+    top: 300px;
+    z-index: 7;
+    color: black;
+
+}
+
+.logo{
+    height: 505px;
+    width: 500px;
+}
+
+#sary{
+    height: 30px;
+    width: 30px;
+  }
+
+  .foot1{
+    position: absolute;
+    background-color: rgb(97, 31, 31);
+    left:5%;
+    height: 56px;
+  
+  }
+  .foot2{
+    position: absolute;
+    background-color: rgb(97, 31, 31);
+    left:15% ;
+    height: 25px;
+    
+    
+  }
+  .foot3{
+    position: absolute;
+    background-color: rgb(97, 31, 31);
+    left:25% ;
+    top: 10%;
+    height: 56px;
+    
+  }
+  .foot4{
+    position: absolute;
+    background-color: rgb(97, 31, 31);
+    left: 35%;
+    top: 10%;
+    height: 56px;
+    
+  }
+  
+

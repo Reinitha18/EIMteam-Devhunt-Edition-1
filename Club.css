@@ -1,0 +1,22 @@
+img{
+    position:relative;
+    height: 50px;
+    width: 50px;
+    top:20px;
+}
+li{
+    list-style-type:none ;
+    
+}
+h3{
+    color:red;
+}
+body{
+background-image: url("logoENI.png");
+background-repeat: no-repeat;
+background-position: normal top;
+margin-right: -10000px;
+}
+#C2E{
+    top: 100px;
+}

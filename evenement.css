@@ -1,0 +1,39 @@
+body{
+    background-color: rgba(187, 197, 206, 0.705);
+}
+nav{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    
+}
+img{
+    height: 300px;
+    width: 200px;
+}
+#envoyer{
+    position: absolute;
+    left: 120px;
+    top:300px;
+    background-color: brown;
+}
+b{
+    color: rgb(12, 12, 12);
+}
+.corps{
+    position: absolute;
+    width: 1200px;
+    
+}
+.position0{
+    position: absolute;
+    left: 43%;
+}
+.position1{
+    position: absolute;
+    left: 0;
+}
+.position2{
+    position: absolute;
+    right: 0;
+}
